@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(17, 70, 63);
+    font-size: 5em;
+    padding-top: 100px;
+    width: 100%;
+    font-family: Georgia;
+    text-align: center;
+  }
+
+li {
+    color:rgba(19, 9, 63, 0.616);
+    font-size: 2em;
+    font-style: italic;
+    font-family: Georgia;
+}
+
+figcaption {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 14px;
+    margin-left: 20px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 60%;
+    background-color: white;
+    color: black;
+    text-align: left;
+  }
