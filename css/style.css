@@ -14,7 +14,10 @@ li {
     font-family: Georgia;
 }
 
-figcaption {
+.image {
+  background-image: url=("img/meandinfinity.JPG");
+}
+.caption {
     display: block;
     font-family: 'Playfair Display', serif;
     font-size: 14px;
